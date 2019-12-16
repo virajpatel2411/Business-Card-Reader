@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811767687505",
+    "firebase_url": "https://businesscardreader-29a0d.firebaseio.com",
+    "project_id": "businesscardreader-29a0d",
+    "storage_bucket": "businesscardreader-29a0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811767687505:android:8cc88fed1f10cc4e",
+        "android_client_info": {
+          "package_name": "royal.com.businesscardreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811767687505-o70f57m3o8atpk4s0vl7fpir4tauiv7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "royal.com.businesscardreader",
+            "certificate_hash": "c6a7ff74655ad0d58bfb56368e6758cad13004b5"
+          }
+        },
+        {
+          "client_id": "811767687505-rvjl2o8v4hu5slbh7tae6h12q4025jju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD0WylEZ2xAh_iUmX6kDCBJIO-YHbjN9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811767687505-rvjl2o8v4hu5slbh7tae6h12q4025jju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
